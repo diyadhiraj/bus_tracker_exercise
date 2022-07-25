@@ -14,5 +14,5 @@ animation is triggered after the "Show Stops Between MIT and Harvard" is clicked
 </ol>
 
 ## Future Improvemtns 
-</p> Add more places to the Map, Create multiple simultaneous marker, 
+</p> Add more places to the Map, Create multiple simultaneous markers, 
 Use data of another City<p>
