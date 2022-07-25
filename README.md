@@ -2,7 +2,7 @@
 ## Description 
 <p>The following Repository utilizes Javasript, CSS, HTML and MapBox(open-source platform) to create and visualize maps and map-markers. 
 MBTA data is used to determine the stops between Harvard and MIT. A map marker
-animation is triggered after the "Show Stops Between MIT and Harvard" is clicked</p>
+animation is triggered after the "Show Stops Between MIT and Harvard" is clicked.</p>
 
 ## How to Run
 <ol>
