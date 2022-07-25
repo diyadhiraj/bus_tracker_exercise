@@ -7,6 +7,8 @@ animation is triggered after the "Show Stops Between MIT and Harvard" is clicked
 ## How to Run
 <ol>
     <li>Clone the Repository to your local machine</li>
+    <li>Log into MapBox and copy your access token</li>
+    <li>Paste access token in your code</li>
     <li>Open your preferred Browser</li>
     <li>Drag and drop the index.html file onto your browse</li>
     <li>Click the "Show Stops Between MIT and Harvard" button which will
